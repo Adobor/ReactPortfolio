@@ -1,0 +1,32 @@
+.mainfooter{
+   text-align:center;
+   margin: auto;
+   background-color: rgb(128, 123, 123);
+   color:white;
+   height: 140px;
+   padding-top: 50px;
+   width: 99%;
+}
+.right{
+   margin: auto;
+   text-align: center;
+}
+.fotname{
+   /* text-decoration: line-through; */
+   width: 80%;
+   text-align: center;
+   margin:auto;
+   padding: 30px;
+      }
+   s{
+      width: 70px;
+      background:dimgray;;
+      opacity: 0.2;
+ 
+      color: darkgrey;
+   }
+   .spimg3{
+      padding: 20px 1px;
+   }
+ 
+

@@ -1,0 +1,59 @@
+*{
+   padding: 0;
+   margin: 0;
+}
+.selfmag{
+width: 31%;
+height: 390px;
+margin: auto;
+/* z-index: 6; */
+position:static;
+/* top: 14px; */
+opacity: 1;
+
+}
+.selfmag img{
+   width: 385px;
+   height: 390px;
+   margin: auto;
+ }
+.topcon2{
+   /* display:grid;
+   grid-template-columns: 1fr 1fr; */
+   display: inline-flex;
+   margin: auto;  
+   width: 99%;
+   text-align: left;
+}
+/* .topcon2 div{ 
+   height: 30px;   
+} */
+.nn{
+   color:blue;
+}
+div h3{
+   text-align: left;
+}
+.tophleft{
+line-height: 50px;
+/* background-color: aquamarine; */
+width: 68%;
+height: 390px;
+padding-top: 3px;
+text-align: left;
+display: flex;
+flex-direction: column;
+margin: auto;
+justify-content: center;
+align-items: center;
+/* position: relative;
+z-index: 6;
+top:-40px; */
+}
+.spimg2{
+   padding-top: 5px;
+}
+.icoos{
+   height: 35px;
+   width: 50px;
+}
